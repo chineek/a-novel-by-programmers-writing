@@ -4,5 +4,5 @@
 
 片尾字幕打在最前面——
 
-感谢贡献者：`iTuringTR`、`jiezilalala`、`chineek`
+感谢贡献者：`iTuringTR`、`jiezilalala`、`LinQ812`、`Chineek`
 
